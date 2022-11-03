@@ -15,6 +15,7 @@ Another common way to connect the BLTouch is to connect the probe stop into the 
 
 [Pictures Here](https://3dprintscape.com/bltouch-on-skr-mini-install-guide/)
 
+[Other Guides](https://www.youmaketech.com/bigtreetech-skr-mini-e3-v3-0-mainboard-upgrade-for-ender-3/)
 
 
 
